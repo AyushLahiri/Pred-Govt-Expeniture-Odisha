@@ -1,0 +1,502 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:v="http://schemas.microsoft.com/visio/2003/SVGExtensions/"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   version="1.0"
+   width="675"
+   height="630"
+   viewBox="70 50 450 420"
+   id="svg2609"
+   style="font-size:12px;fill:none;fill-rule:evenodd;stroke-linecap:square;stroke-miterlimit:3;overflow:visible">
+	<style
+   type="text/css"
+   id="style2611" />
+	<defs
+   id="Patterns_And_Gradients">
+		<linearGradient
+   x1="0"
+   y1="0"
+   x2="0"
+   y2="1"
+   id="grad28-6">
+			<stop
+   id="stop2615"
+   style="stop-color:#ffffff;stop-opacity:1"
+   offset="0" />
+			<stop
+   id="stop2617"
+   style="stop-color:#d1ebf1;stop-opacity:1"
+   offset="1" />
+		</linearGradient>
+		<linearGradient
+   x1="0"
+   y1="0"
+   x2="0"
+   y2="1"
+   id="grad28-10">
+			<stop
+   id="stop2620"
+   style="stop-color:#d1ebf1;stop-opacity:1"
+   offset="0" />
+			<stop
+   id="stop2622"
+   style="stop-color:#5555ff;stop-opacity:1"
+   offset="1" />
+		</linearGradient>
+		<linearGradient
+   x1="-0.16616529"
+   y1="1634.7025"
+   x2="-0.16616529"
+   y2="1824.7494"
+   id="grad28-18"
+   gradientUnits="userSpaceOnUse"
+   gradientTransform="scale(2.1665176,0.4615702)">
+			<stop
+   id="stop2625"
+   style="stop-color:#ffffff;stop-opacity:1"
+   offset="0" />
+			<stop
+   id="stop2627"
+   style="stop-color:#facca7;stop-opacity:1"
+   offset="1" />
+		</linearGradient>
+		<linearGradient
+   x1="0"
+   y1="0"
+   x2="0"
+   y2="1"
+   id="grad28-26">
+			<stop
+   id="stop2630"
+   style="stop-color:#ffffff;stop-opacity:1"
+   offset="0" />
+			<stop
+   id="stop2632"
+   style="stop-color:#5555ff;stop-opacity:1"
+   offset="1" />
+		</linearGradient>
+		<linearGradient
+   x1="-0.19181371"
+   y1="1416.1179"
+   x2="-0.19181371"
+   y2="1580.7527"
+   id="grad28-37"
+   gradientUnits="userSpaceOnUse"
+   gradientTransform="scale(1.8768212,0.5328158)">
+			<stop
+   id="stop2635"
+   style="stop-color:#ffffff;stop-opacity:1"
+   offset="0" />
+			<stop
+   id="stop2637"
+   style="stop-color:#cadaa9;stop-opacity:1"
+   offset="1" />
+		</linearGradient>
+		<linearGradient
+   x1="-0.23478802"
+   y1="1156.9194"
+   x2="-0.23478802"
+   y2="1291.4204"
+   id="grad28-49"
+   gradientUnits="userSpaceOnUse"
+   gradientTransform="scale(1.5332981,0.6521889)">
+			<stop
+   id="stop2640"
+   style="stop-color:#ffffff;stop-opacity:1"
+   offset="0" />
+			<stop
+   id="stop2642"
+   style="stop-color:#bfb1cf;stop-opacity:1"
+   offset="1" />
+		</linearGradient>
+		<linearGradient
+   x1="0"
+   y1="0"
+   x2="0"
+   y2="1"
+   id="grad28-57">
+			<stop
+   id="stop2645"
+   style="stop-color:#ffffff;stop-opacity:1"
+   offset="0" />
+			<stop
+   id="stop2647"
+   style="stop-color:#ab9ac0;stop-opacity:1"
+   offset="1" />
+		</linearGradient>
+		<linearGradient
+   x1="-0.33145428"
+   y1="819.51221"
+   x2="-0.33145428"
+   y2="914.78687"
+   id="grad28-65"
+   gradientUnits="userSpaceOnUse"
+   gradientTransform="scale(1.0861227,0.9207063)">
+			<stop
+   id="stop2650"
+   style="stop-color:#ffffff;stop-opacity:1"
+   offset="0" />
+			<stop
+   id="stop2652"
+   style="stop-color:#edcdcb;stop-opacity:1"
+   offset="1" />
+		</linearGradient>
+	</defs>
+	<g
+   transform="translate(-1.6000023,0)"
+   id="g2654">
+		<title
+   id="title2656">Page-1</title>
+		<v:pageProperties
+   v:shadowOffsetY="-8.50394"
+   v:shadowOffsetX="8.50394"
+   v:drawingUnits="24"
+   v:pageScale="0.0393701"
+   v:drawingScale="0.0393701" />
+		<g
+   transform="translate(92.126,-425.197)"
+   id="group1-1">
+			<v:custProps>
+				<v:cp
+   v:val="VT4(4)"
+   v:langID="1033"
+   v:invis="false"
+   v:format="1;2;3;4;5"
+   v:type="1"
+   v:lbl="Number of Levels"
+   v:nameU="Rows" />
+				<v:cp
+   v:val="VT0(0):0"
+   v:langID="1033"
+   v:invis="true"
+   v:type="2"
+   v:lbl="Offset"
+   v:nameU="Offset" />
+			</v:custProps>
+			<v:userDefs>
+				<v:ud
+   v:val="VT0(0):0"
+   v:nameU="Offset" />
+				<v:ud
+   v:val="VT0(1):26"
+   v:nameU="ask" />
+				<v:ud
+   v:val="VT0(0):5"
+   v:nameU="ltoffset" />
+				<v:ud
+   v:val="VT0(0.48333333333333):26"
+   v:nameU="maxoffset" />
+				<v:ud
+   v:val="VT0(2):26"
+   v:prompt="Indicates whether the shape should be 2-D or 3-D."
+   v:nameU="Dimension" />
+				<v:ud
+   v:val="VT0(12):26"
+   v:nameU="visVersion" />
+			</v:userDefs>
+			<title
+   id="title2659">Triangle</title>
+			<g
+   transform="translate(-51.378,87)"
+   id="group2-2">
+				<title
+   id="title2662">Sheet.2</title>
+				<g
+   id="shape3-3">
+					<title
+   id="title2665">Sheet.3</title>
+				</g>
+				<g
+   transform="translate(0,-87)"
+   id="shape4-7">
+					<title
+   id="title2668">Sheet.4</title>
+				</g>
+				<g
+   transform="translate(462.402,0)"
+   id="shape5-11">
+					<title
+   id="title2671">Sheet.5</title>
+				</g>
+			</g>
+			<g
+   id="group6-14">
+				<title
+   id="title2674">Sheet.6</title>
+				<g
+   id="shape7-15">
+					<title
+   id="title2677">Sheet.7</title>
+					<desc
+   id="desc2679">Village (Gram Panchayat)</desc>
+					<v:textBlock
+   v:tabSpace="42.5197"
+   v:margins="rect(0,0,0,0)" />
+					<v:textRect
+   height="87"
+   width="411.03"
+   cy="798.39"
+   cx="205.512" />
+					<path
+   d="M 0,841.89 L 411.02,841.89 L 359.65,754.89 L 51.38,754.89 L 0,841.89 z"
+   id="path2681"
+   style="fill:url(#grad28-18);stroke:#000080;stroke-width:0.72000003;stroke-linecap:round;stroke-linejoin:round" />
+					<text
+   x="185.52"
+   y="794.78998"
+   id="text2683"
+   style="font-weight:bold;line-height:125%;fill:#000080;font-family:Palatino Linotype"><tspan
+     id="tspan3622"
+     style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Palatino Linotype;-inkscape-font-specification:Palatino Linotype">Village</tspan></text>
+<text
+   x="185.52"
+   y="794.78998"
+   id="text3568"
+   style="font-weight:bold;fill:#000080;font-family:Palatino Linotype" />
+				<text
+   x="364.83951"
+   y="371.7355"
+   transform="translate(-90.525998,425.197)"
+   id="text3584"
+   xml:space="preserve"
+   style="font-size:40px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"><tspan
+     x="364.83951"
+     y="371.7355"
+     id="tspan3586" /></text>
+<text
+   x="347.91397"
+   y="369.228"
+   transform="translate(-90.525998,425.197)"
+   id="text3588"
+   xml:space="preserve"
+   style="font-size:40px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"><tspan
+     x="347.91397"
+     y="369.228"
+     id="tspan3590" /></text>
+<text
+   x="175.26765"
+   y="811.35059"
+   id="text3592"
+   xml:space="preserve"
+   style="font-size:8.80001259px;font-style:normal;font-weight:normal;line-height:125%;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"><tspan
+     x="175.26765"
+     y="811.35059"
+     id="tspan3594"
+     style="font-size:9px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Palatino Linotype;-inkscape-font-specification:Palatino Linotype Italic">(Gram Panchayat)</tspan></text>
+<text
+   x="89.015549"
+   y="310.30197"
+   transform="translate(-90.525998,425.197)"
+   id="text3600"
+   xml:space="preserve"
+   style="font-size:8px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"><tspan
+     x="89.015549"
+     y="310.30197"
+     id="tspan3602"
+     style="font-style:italic;font-weight:normal" /></text>
+</g>
+				<g
+   transform="translate(0,-87)"
+   id="shape8-23">
+					<title
+   id="title2692">Sheet.8</title>
+				</g>
+				<g
+   transform="translate(359.646,0)"
+   id="shape9-27">
+					<title
+   id="title2695">Sheet.9</title>
+				</g>
+			</g>
+			<g
+   transform="translate(51.378,-87)"
+   id="group10-30"
+   style="font-size:8.80001259px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Palatino Linotype;-inkscape-font-specification:Palatino Linotype Italic">
+				<title
+   id="title2698">Sheet.10</title>
+				<g
+   transform="translate(0,-87)"
+   id="shape11-31"
+   style="font-size:8.80001259px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Palatino Linotype;-inkscape-font-specification:Palatino Linotype Italic">
+					<title
+   id="title2701">Sheet.11</title>
+				</g>
+				<g
+   id="shape12-34"
+   style="font-size:8.80001259px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Palatino Linotype;-inkscape-font-specification:Palatino Linotype Italic">
+					<title
+   id="title2704">Sheet.12</title>
+					<desc
+   id="desc2706">Block (Panchayat Samiti)</desc>
+					<v:textBlock
+   v:tabSpace="42.5197"
+   v:margins="rect(0,0,0,0)" />
+					<v:textRect
+   height="87"
+   width="308.27"
+   cy="798.39"
+   cx="154.134" />
+					<path
+   d="M 0,841.89 L 308.27,841.89 L 256.89,754.89 L 51.38,754.89 L 0,841.89 z"
+   id="path2708"
+   style="font-size:8.80001259px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:url(#grad28-37);stroke:#000080;stroke-width:0.72000003;stroke-linecap:round;stroke-linejoin:round;font-family:Palatino Linotype;-inkscape-font-specification:Palatino Linotype Italic" />
+					<text
+   x="135.30998"
+   y="794.78998"
+   id="text2710"
+   style="font-size:11.20001602px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000080;font-family:Palatino Linotype;-inkscape-font-specification:Palatino Linotype"><tspan
+     id="tspan3620"
+     style="font-size:14px">Block</tspan></text>
+				</g>
+				<g
+   transform="translate(256.89,0)"
+   id="shape13-42"
+   style="font-size:8.80001259px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Palatino Linotype;-inkscape-font-specification:Palatino Linotype Italic">
+					<title
+   id="title2719">Sheet.13</title>
+				</g>
+			</g>
+			<g
+   transform="translate(102.756,-174)"
+   id="group14-45"
+   style="font-size:8.80001259px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Palatino Linotype;-inkscape-font-specification:Palatino Linotype Italic">
+				<title
+   id="title2722">Sheet.14</title>
+				<g
+   id="shape15-46"
+   style="font-size:8.80001259px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Palatino Linotype;-inkscape-font-specification:Palatino Linotype Italic">
+					<title
+   id="title2725">Sheet.15</title>
+					<desc
+   id="desc2727">District (Zilla Parishad)</desc>
+					<v:textBlock
+   v:tabSpace="42.5197"
+   v:margins="rect(0,0,0,0)" />
+					<v:textRect
+   height="87"
+   width="205.52"
+   cy="798.39"
+   cx="102.756" />
+					<path
+   d="M 0,841.89 L 205.51,841.89 L 154.13,754.89 L 51.38,754.89 L 0,841.89 z"
+   id="path2729"
+   style="font-size:8.80001259px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:url(#grad28-49);stroke:#000080;stroke-width:0.72000003;stroke-linecap:round;stroke-linejoin:round;font-family:Palatino Linotype;-inkscape-font-specification:Palatino Linotype Italic" />
+					<text
+   x="78.919991"
+   y="794.78998"
+   id="text2731"
+   style="font-size:8.80001259px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000080;font-family:Palatino Linotype;-inkscape-font-specification:Palatino Linotype Italic"><tspan
+     id="tspan3616"
+     style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Palatino Linotype;-inkscape-font-specification:Palatino Linotype">District</tspan></text>
+				</g>
+				<g
+   transform="translate(154.134,0)"
+   id="shape16-54"
+   style="font-size:8.80001259px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Palatino Linotype;-inkscape-font-specification:Palatino Linotype Italic">
+					<title
+   id="title2740">Sheet.16</title>
+				</g>
+				<g
+   transform="translate(0,-87)"
+   id="shape17-58"
+   style="font-size:8.80001259px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Palatino Linotype;-inkscape-font-specification:Palatino Linotype Italic">
+					<title
+   id="title2743">Sheet.17</title>
+				</g>
+			</g>
+			<g
+   transform="translate(154.134,-261)"
+   id="group18-61"
+   style="font-size:8.80001259px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Palatino Linotype;-inkscape-font-specification:Palatino Linotype Italic">
+				<title
+   id="title2746">Sheet.18</title>
+				<g
+   id="shape19-62"
+   style="font-size:8.80001259px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Palatino Linotype;-inkscape-font-specification:Palatino Linotype Italic">
+					<title
+   id="title2749">Sheet.19</title>
+					<desc
+   id="desc2751">State (State govt.)</desc>
+					<v:textBlock
+   v:tabSpace="42.5197"
+   v:margins="rect(0,0,0,0)" />
+					<v:textRect
+   height="87"
+   width="102.76"
+   cy="798.39"
+   cx="51.378" />
+					<path
+   d="M 0,841.89 L 102.76,841.89 L 51.38,754.89 L 0,841.89 z"
+   id="path2753"
+   style="font-size:8.80001259px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:url(#grad28-65);stroke:#000080;stroke-width:0.72000003;stroke-linecap:round;stroke-linejoin:round;font-family:Palatino Linotype;-inkscape-font-specification:Palatino Linotype Italic" />
+					<text
+   x="37.720001"
+   y="809.19"
+   id="text2755"
+   style="font-size:8.80001259px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000080;font-family:Palatino Linotype;-inkscape-font-specification:Palatino Linotype Italic"><tspan
+     id="tspan3618"
+     style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Palatino Linotype;-inkscape-font-specification:Palatino Linotype">State</tspan></text>
+				</g>
+				<g
+   transform="translate(51.378,0)"
+   id="shape20-70"
+   style="font-size:8.80001259px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Palatino Linotype;-inkscape-font-specification:Palatino Linotype Italic">
+					<title
+   id="title2764">Sheet.20</title>
+				</g>
+			</g>
+			<g
+   transform="translate(35.3671,27.937)"
+   id="shape21-73">
+				<title
+   id="title2767">Sheet.21</title>
+				<desc
+   id="desc2769">Administrative Setup of States and Union Territories of India</desc>
+				<v:textBlock
+   v:verticalAlign="0"
+   v:tabSpace="42.5197"
+   v:margins="rect(0,0,0,0)" />
+				<v:textRect
+   height="14.4037"
+   width="340.29"
+   cy="834.688"
+   cx="170.145" />
+				<text
+   x="1.5"
+   y="838.28998"
+   id="text2771"
+   style="font-weight:bold;fill:#c05046;font-family:Palatino Linotype"><v:paragraph
+   v:horizAlign="1" /><v:tabList />Administrative Setup of States and Union Territories of India</text>
+			</g>
+		<text
+   x="175.26764"
+   y="726.72272"
+   id="text3604"
+   xml:space="preserve"
+   style="font-size:8.80001259px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Palatino Linotype;-inkscape-font-specification:Palatino Linotype Italic"><tspan
+     x="175.26764"
+     y="726.72272"
+     id="tspan3606">(Panchayat Samiti)</tspan></text>
+<text
+   x="179.30948"
+   y="640.21436"
+   id="text3608"
+   xml:space="preserve"
+   style="font-size:8.80001259px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Palatino Linotype;-inkscape-font-specification:Palatino Linotype Italic"><tspan
+     x="179.30948"
+     y="640.21436"
+     id="tspan3610">(Zilla Parishad)</tspan></text>
+<text
+   x="183.89453"
+   y="563.73584"
+   id="text3612"
+   xml:space="preserve"
+   style="font-size:8.80001259px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Palatino Linotype;-inkscape-font-specification:Palatino Linotype Italic"><tspan
+     x="183.89453"
+     y="563.73584"
+     id="tspan3614">(State govt.)</tspan></text>
+</g>
+	</g>
+</svg>
